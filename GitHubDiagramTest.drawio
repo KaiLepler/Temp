@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-05-23T12:46:18.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" version="13.1.3" etag="pgvJn_rB2IQlBWG0CECg" type="github"><diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">7VnbjpswEP2aPG4FmOvj5rK7D61UKVX7TMABaw2mYJqkX9+xYycQQEmkRE27ECnYM4PHnnNsxmaCZtn2tQyL9AuLMZ1YRrydoPnEskzbcuEmJLu9xA2cvSApSayMjoIl+Y2V0FDSmsS4ahlyxignRVsYsTzHEW/JwrJkm7bZmtG21yJMcEewjELalf4gMU+V1DSMo+INkyRVrn1HKVZh9J6UrM6Vv4mF1vLaq7NQt6XsqzSM2aYhQosJmpWM8X0p284wFbHVYds/9zKgPfS7xDm/5AEbR4G3igPsxJZhWv6TauFXSGushyA7ync6OJTkUJpWvGTvh/BAz6cpzygUTSiuCaUzRlkJ9ZxJ+zXLuULa8lVdm0CYDMOeB8Gh3T5Nd3C6t7jkeNsQqcG+YpZhXu7ARGltFfedrqr6poGyoYVpA2HNzFAxKzk0fYwuFFSALwy20wn2kgtmgrYTdWBKIYpsvf4KNrM980WMppuUcLwswkjoNzAjh7GQ4fSchd8GxHS6gLzISwCytzE+OUaAPMdQl3xGRJ7AvHmmJMnBiLOiA6HC/wbomVYbPmT3wOf2oGffAz23Z6q4lIvxF2EO5USUNaJIK8FPUz8C3QO046EHAtq7CmjrHwLaNj3f8eB9Lf9t+QwlxXfl5xT0FeOcZUO4w2AjkidTZTS3b8MFZHvtNdtyLuMCcu7ABf8qLtgjF27KBd8wHogLwflcCVqAnBVfDaNrTp8lPNdlTTobQ/fOo8zg5E0cdIGwenCw7rE+69zsIwIBs/aBgLhg9/C/AuHa6IGAQB8XCN97pKXJHswXUlNnA284jOFl2cgVjjotLLTgMytxJlwWVS3usYwiIEu46Dx0eWLN9kcjFaQQmNdCCw4KUpFIujEwJcqqwrFsQwhJXWVMVDnOCtkmySMSk7jORdO1+KPhCvwLa659Y3mukeShcEPJzzr81BhJMZjyAJy8TTSVNEDNOda+iY3G/AnQ6ScqA2asqTxDSUkc43wwJenQ8ITYC1f8TlIn1EdscYE8VKlQBGTFIlWTBz84VsO5AZeD9ppio+42yDKdLpfN+5B5eMc7knkk89mNnBm02Gw5f5fNw9v6kc0jm88eUdnOQ63NwwcTI5tHNp9js3dy4HrXtRmqxy9cUtf4jIgWfwA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-23T13:23:51.448Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="mO8FjTQIYrWazJxEWya6" version="13.1.3" type="github">
+  <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
+    <mxGraphModel dx="1554" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0" extFonts="Roboto^https://fonts.googleapis.com/css?family=Roboto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;fontFamily=Roboto;FType=g;" parent="1" vertex="1">
+          <mxGeometry x="40" y="400" width="1000" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Stage 3&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=20;size=0.5093750000000015;verticalAlign=top;strokeColor=#82b366;gradientColor=#97d077;fontFamily=Roboto;FType=g;" parent="1" vertex="1">
+          <mxGeometry x="573" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Stage 2&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=20;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=#82b366;spacingBottom=4;gradientColor=#97d077;fontFamily=Roboto;FType=g;" parent="1" vertex="1">
+          <mxGeometry x="347" y="425" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Stage 4&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=20;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=#82b366;spacingBottom=4;gradientColor=#97d077;fontFamily=Roboto;FType=g;" parent="1" vertex="1">
+          <mxGeometry x="800" y="425" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;fontFamily=Roboto;FType=g;" parent="1" vertex="1">
+          <mxGeometry x="190" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;fontFamily=Roboto;FType=g;" parent="1" vertex="1">
+          <mxGeometry x="417" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;fontFamily=Roboto;FType=g;" parent="1" vertex="1">
+          <mxGeometry x="643" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;fontFamily=Roboto;FType=g;" parent="1" vertex="1">
+          <mxGeometry x="870" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1&gt;Clean&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;fontSize=13;align=center;rounded=1;fontFamily=Roboto;FType=g;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="93" y="430" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1&gt;Move&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;fontSize=13;align=center;rounded=1;fontFamily=Roboto;FType=g;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="319" y="250" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;Close&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;fontSize=13;align=center;rounded=1;fontFamily=Roboto;FType=g;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="545" y="430" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;Extend&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;fontSize=13;align=center;rounded=1;fontFamily=Roboto;FType=g;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="773" y="250" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vDgclcoKq5HCCYC7iWDN-1" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Stage 1&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=20;size=0.5093750000000015;verticalAlign=top;strokeColor=#82b366;gradientColor=#97d077;fontFamily=Roboto;FType=g;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
